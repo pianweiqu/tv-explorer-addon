@@ -1,0 +1,29 @@
+{
+  "id": "org.pianweiqu.tvexplorer",
+  "name": "TV Explorer",
+  "version": "1.0.0",
+  "description": "Watch 10,000+ Free Live TV Channels from TV Explorer",
+  "types": ["tv"],
+  "resources": ["catalog", "stream"],
+  "catalogs": [
+    {
+      "type": "tv",
+      "id": "tv-top",
+      "name": "TV 热门"
+    }
+  ],
+  "idPrefixes": ["tv:"],
+  "behaviorHints": {
+    "live": true,
+    "adult": false
+  },
+  "serverUrl": "https://pianweiqu.github.io/tv-explorer-addon/",
+  "server": {
+    "catalogs": {
+      "tv-top": {
+        "url": "https://pianweiqu.github.io/tv-explorer-addon/api/catalog",
+        "type": "tv"
+      }
+    }
+  }
+}
