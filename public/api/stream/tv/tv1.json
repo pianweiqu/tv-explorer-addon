@@ -1,0 +1,11 @@
+{
+  "streams": [
+    {
+      "title": "CCTV-1 综合",
+      "url": "https://tvexplorer.live/stream/cctv1.m3u8",
+      "behaviorHints": {
+        "notWebReady": false
+      }
+    }
+  ]
+}

@@ -12,7 +12,7 @@
       "name": "TV 热门"
     }
   ],
-  "idPrefixes": ["tv:"],
+  "idPrefixes": ["tv"],
   "behaviorHints": {
     "live": true,
     "adult": false

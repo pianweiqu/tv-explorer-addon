@@ -1,7 +1,0 @@
-{
-  "rewrites": [
-    { "source": "/manifest.json", "destination": "/api/manifest" },
-    { "source": "/api/catalog/(.*)", "destination": "/api/catalog?p=$1" },
-    { "source": "/api/stream/(.*)", "destination": "/api/stream?p=$1" }
-  ]
-}

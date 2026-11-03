@@ -1,0 +1,84 @@
+{
+  "metas": [
+    {
+      "id": "tv1",
+      "type": "tv",
+      "name": "CCTV-1 综合",
+      "poster": "https://tvexplorer.live/images/cctv1.jpg",
+      "posterShape": "landscape",
+      "background": "https://tvexplorer.live/images/cctv1.jpg"
+    },
+    {
+      "id": "tv2",
+      "type": "tv",
+      "name": "CCTV-2 财经",
+      "poster": "https://tvexplorer.live/images/cctv2.jpg",
+      "posterShape": "landscape",
+      "background": "https://tvexplorer.live/images/cctv2.jpg"
+    },
+    {
+      "id": "tv3",
+      "type": "tv",
+      "name": "CCTV-3 综艺",
+      "poster": "https://tvexplorer.live/images/cctv3.jpg",
+      "posterShape": "landscape",
+      "background": "https://tvexplorer.live/images/cctv3.jpg"
+    },
+    {
+      "id": "tv4",
+      "type": "tv",
+      "name": "CCTV-4 中文国际",
+      "poster": "https://tvexplorer.live/images/cctv4.jpg",
+      "posterShape": "landscape",
+      "background": "https://tvexplorer.live/images/cctv4.jpg"
+    },
+    {
+      "id": "tv5",
+      "type": "tv",
+      "name": "CCTV-5 体育",
+      "poster": "https://tvexplorer.live/images/cctv5.jpg",
+      "posterShape": "landscape",
+      "background": "https://tvexplorer.live/images/cctv5.jpg"
+    },
+    {
+      "id": "tv6",
+      "type": "tv",
+      "name": "CCTV-6 电影",
+      "poster": "https://tvexplorer.live/images/cctv6.jpg",
+      "posterShape": "landscape",
+      "background": "https://tvexplorer.live/images/cctv6.jpg"
+    },
+    {
+      "id": "tv7",
+      "type": "tv",
+      "name": "CCTV-7 农业",
+      "poster": "https://tvexplorer.live/images/cctv7.jpg",
+      "posterShape": "landscape",
+      "background": "https://tvexplorer.live/images/cctv7.jpg"
+    },
+    {
+      "id": "tv8",
+      "type": "tv",
+      "name": "CCTV-8 电视剧",
+      "poster": "https://tvexplorer.live/images/cctv8.jpg",
+      "posterShape": "landscape",
+      "background": "https://tvexplorer.live/images/cctv8.jpg"
+    },
+    {
+      "id": "tv9",
+      "type": "tv",
+      "name": "CCTV-9 记录",
+      "poster": "https://tvexplorer.live/images/cctv9.jpg",
+      "posterShape": "landscape",
+      "background": "https://tvexplorer.live/images/cctv9.jpg"
+    },
+    {
+      "id": "tv10",
+      "type": "tv",
+      "name": "CCTV-10 科教",
+      "poster": "https://tvexplorer.live/images/cctv10.jpg",
+      "posterShape": "landscape",
+      "background": "https://tvexplorer.live/images/cctv10.jpg"
+    }
+  ]
+}

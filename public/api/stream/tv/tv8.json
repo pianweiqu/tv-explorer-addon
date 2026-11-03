@@ -1,0 +1,11 @@
+{
+  "streams": [
+    {
+      "title": "CCTV-8 电视剧",
+      "url": "https://tvexplorer.live/stream/cctv8.m3u8",
+      "behaviorHints": {
+        "notWebReady": false
+      }
+    }
+  ]
+}
