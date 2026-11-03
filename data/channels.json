@@ -1,0 +1,62 @@
+[
+  {
+    "id": "tv:1",
+    "name": "CCTV-1 综合",
+    "url": "https://tvexplorer.live/stream/cctv1.m3u8",
+    "poster": "https://tvexplorer.live/images/cctv1.jpg"
+  },
+  {
+    "id": "tv:2",
+    "name": "CCTV-2 财经",
+    "url": "https://tvexplorer.live/stream/cctv2.m3u8",
+    "poster": "https://tvexplorer.live/images/cctv2.jpg"
+  },
+  {
+    "id": "tv:3",
+    "name": "CCTV-3 综艺",
+    "url": "https://tvexplorer.live/stream/cctv3.m3u8",
+    "poster": "https://tvexplorer.live/images/cctv3.jpg"
+  },
+  {
+    "id": "tv:4",
+    "name": "CCTV-4 中文国际",
+    "url": "https://tvexplorer.live/stream/cctv4.m3u8",
+    "poster": "https://tvexplorer.live/images/cctv4.jpg"
+  },
+  {
+    "id": "tv:5",
+    "name": "CCTV-5 体育",
+    "url": "https://tvexplorer.live/stream/cctv5.m3u8",
+    "poster": "https://tvexplorer.live/images/cctv5.jpg"
+  },
+  {
+    "id": "tv:6",
+    "name": "CCTV-6 电影",
+    "url": "https://tvexplorer.live/stream/cctv6.m3u8",
+    "poster": "https://tvexplorer.live/images/cctv6.jpg"
+  },
+  {
+    "id": "tv:7",
+    "name": "CCTV-7 农业",
+    "url": "https://tvexplorer.live/stream/cctv7.m3u8",
+    "poster": "https://tvexplorer.live/images/cctv7.jpg"
+  },
+  {
+    "id": "tv:8",
+    "name": "CCTV-8 电视剧",
+    "url": "https://tvexplorer.live/stream/cctv8.m3u8",
+    "poster": "https://tvexplorer.live/images/cctv8.jpg"
+  },
+  {
+    "id": "tv:9",
+    "name": "CCTV-9 记录",
+    "url": "https://tvexplorer.live/stream/cctv9.m3u8",
+    "poster": "https://tvexplorer.live/images/cctv9.jpg"
+  },
+  {
+    "id": "tv:10",
+    "name": "CCTV-10 科教",
+    "url": "https://tvexplorer.live/stream/cctv10.m3u8",
+    "poster": "https://tvexplorer.live/images/cctv10.jpg"
+  }
+]
