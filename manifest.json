@@ -16,14 +16,5 @@
   "behaviorHints": {
     "live": true,
     "adult": false
-  },
-  "serverUrl": "https://pianweiqu.github.io/tv-explorer-addon/",
-  "server": {
-    "catalogs": {
-      "tv-top": {
-        "url": "https://pianweiqu.github.io/tv-explorer-addon/api/catalog",
-        "type": "tv"
-      }
-    }
   }
 }

@@ -1,0 +1,84 @@
+{
+  "tv-top": [
+    {
+      "id": "tv:1",
+      "title": "CCTV-1 综合",
+      "url": "https://tvexplorer.live/stream/cctv1.m3u8",
+      "thumbnail": "https://tvexplorer.live/images/cctv1.jpg",
+      "live": true,
+      "tags": ["cctv", "综合"]
+    },
+    {
+      "id": "tv:2",
+      "title": "CCTV-2 财经",
+      "url": "https://tvexplorer.live/stream/cctv2.m3u8",
+      "thumbnail": "https://tvexplorer.live/images/cctv2.jpg",
+      "live": true,
+      "tags": ["cctv", "财经"]
+    },
+    {
+      "id": "tv:3",
+      "title": "CCTV-3 综艺",
+      "url": "https://tvexplorer.live/stream/cctv3.m3u8",
+      "thumbnail": "https://tvexplorer.live/images/cctv3.jpg",
+      "live": true,
+      "tags": ["cctv", "综艺"]
+    },
+    {
+      "id": "tv:4",
+      "title": "CCTV-4 中文国际",
+      "url": "https://tvexplorer.live/stream/cctv4.m3u8",
+      "thumbnail": "https://tvexplorer.live/images/cctv4.jpg",
+      "live": true,
+      "tags": ["cctv", "国际"]
+    },
+    {
+      "id": "tv:5",
+      "title": "CCTV-5 体育",
+      "url": "https://tvexplorer.live/stream/cctv5.m3u8",
+      "thumbnail": "https://tvexplorer.live/images/cctv5.jpg",
+      "live": true,
+      "tags": ["cctv", "体育"]
+    },
+    {
+      "id": "tv:6",
+      "title": "CCTV-6 电影",
+      "url": "https://tvexplorer.live/stream/cctv6.m3u8",
+      "thumbnail": "https://tvexplorer.live/images/cctv6.jpg",
+      "live": true,
+      "tags": ["cctv", "电影"]
+    },
+    {
+      "id": "tv:7",
+      "title": "CCTV-7 农业",
+      "url": "https://tvexplorer.live/stream/cctv7.m3u8",
+      "thumbnail": "https://tvexplorer.live/images/cctv7.jpg",
+      "live": true,
+      "tags": ["cctv", "农业"]
+    },
+    {
+      "id": "tv:8",
+      "title": "CCTV-8 电视剧",
+      "url": "https://tvexplorer.live/stream/cctv8.m3u8",
+      "thumbnail": "https://tvexplorer.live/images/cctv8.jpg",
+      "live": true,
+      "tags": ["cctv", "电视剧"]
+    },
+    {
+      "id": "tv:9",
+      "title": "CCTV-9 记录",
+      "url": "https://tvexplorer.live/stream/cctv9.m3u8",
+      "thumbnail": "https://tvexplorer.live/images/cctv9.jpg",
+      "live": true,
+      "tags": ["cctv", "记录"]
+    },
+    {
+      "id": "tv:10",
+      "title": "CCTV-10 科教",
+      "url": "https://tvexplorer.live/stream/cctv10.m3u8",
+      "thumbnail": "https://tvexplorer.live/images/cctv10.jpg",
+      "live": true,
+      "tags": ["cctv", "科教"]
+    }
+  ]
+}

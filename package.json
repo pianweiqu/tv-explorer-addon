@@ -1,0 +1,13 @@
+{
+  "name": "tv-explorer-addon",
+  "version": "1.0.0",
+  "description": "TV Explorer Stremio addon",
+  "main": "api_server.js",
+  "scripts": {
+    "start": "node api_server.js"
+  },
+  "dependencies": {},
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}
